@@ -63,6 +63,10 @@ pip install pyusb  ※ VADやDOAを利用する場合
 
 </details>
 
+# Reference
+* [Wiki](https://wiki.seeedstudio.com/ja/ReSpeaker_Mic_Array_v2.0/#dfu%E3%81%8A%E3%82%88%E3%81%B3led%E5%88%B6%E5%BE%A1%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+* [respeaker/usb_4_mic_array](https://github.com/respeaker/usb_4_mic_array)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
